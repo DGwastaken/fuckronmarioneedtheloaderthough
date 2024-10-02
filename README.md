@@ -1,5 +1,5 @@
-# Cleanroom MMC
-Simple script design to create modpack instance to be import via MultiMC launcher variants.
+# `H***`RONGMARIONEEDTHELOADERTHOUGH
+Simple script design to `H***`RONGMARIONEEDTHELOADERTHOUGH to be `H***`RONGMARIONEEDTHELOADERTHOUGH via `H***`RONGMARIONEEDTHELOADERTHOUGH variants.
 
 # How to get newest version
 You can download latest version via this [action](https://github.com/CleanroomMC/CleanroomMMC/actions/workflows/BuildTestInstance.yml)
